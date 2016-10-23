@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gowebadmin&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ngrok" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../micro-go-auth" />
+      <root url="file://$PROJECT_DIR$/../goadmin" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../webadmin" />
+      <root url="file://$PROJECT_DIR$/../apiproject" />
+      <root url="file://$PROJECT_DIR$/../opms" />
+      <root url="file://$PROJECT_DIR$/../demoadmin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ngrok" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../micro-go-auth" />
+      <root url="file://$PROJECT_DIR$/../goadmin" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../webadmin" />
+      <root url="file://$PROJECT_DIR$/../apiproject" />
+      <root url="file://$PROJECT_DIR$/../opms" />
+      <root url="file://$PROJECT_DIR$/../demoadmin" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
